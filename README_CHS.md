@@ -32,7 +32,7 @@
 
 |启用时序抖动|禁用时序抖动|
 |---|---|
-|![Enable Dithering](https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/enable_dithering.gif)|![Disable Dithering](https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/disable_dithering.gif)|
+|<img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/enable_dithering.gif" width="360" height="480" alt="启用时序抖动" />|<img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/disable_dithering.gif" width="360" height="480" alt="禁用时序抖动" />|
 
 - **自动清屏**: 设置时间间隔自动刷新屏幕，减少残影。
 

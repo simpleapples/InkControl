@@ -32,7 +32,7 @@ Adjust monitor settings via software without touching physical buttons:
 
 |Enable Dithering|Disable Dithering|
 |---|---|
-|![Enable Dithering](https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/enable_dithering.gif)|![Disable Dithering](https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/disable_dithering.gif)|
+|<img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/enable_dithering.gif" width="360" height="480" alt="Enable Dithering" />|<img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/disable_dithering.gif" width="360" height="480" alt="Disable Dithering" />|
 
 - **Auto Refresh**: Set intervals to automatically refresh the screen and reduce ghosting.
 
