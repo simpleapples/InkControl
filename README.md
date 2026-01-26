@@ -29,9 +29,10 @@ Adjust monitor settings via software without touching physical buttons:
 - **Refresh Mode**: Switch between Graphics, Video, Text modes, etc.
 - **Backlight Control**: Adjust the intensity of cool and warm front lights.
 - **Disable Dithering**: Turn off hardware dithering for a more stable text display.
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/dithering_demo.gif" width="600" height="337" alt="Dithering Demo" />
-    </div>
+
+|Enable Dithering|Disable Dithering|
+|---|---|
+|![Enable Dithering](https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/enable_dithering.gif)|![Disable Dithering](https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/disable_dithering.gif)|
 
 - **Auto Refresh**: Set intervals to automatically refresh the screen and reduce ghosting.
 
