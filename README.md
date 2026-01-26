@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/app_icon.png" width="256" height="256" alt="InkControl Logo" />
-  <h1>InkControl - 墨控</h1>
-  <p><strong>适用于 macOS 的 大上墨水屏控制中心</strong></p>
+  <h1>InkControl</h1>
+  <p><strong>Dasung E-ink Monitor Control Center for macOS</strong></p>
 
   <a href="https://github.com/simpleapples/InkControl/releases/latest"><img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="180" alt="Download for macOS"/></a><br/>
   
@@ -11,92 +11,92 @@
 </div>
 
 <p align="center">
-  <strong>简体中文</strong> | <a href="README_EN.md">English</a>
+  <a href="README_CHS.md">简体中文</a> | <strong>English</strong>
 </p>
 
 ---
 
-## 关于 InkControl - 墨控
+## About InkControl
 
-**InkControl - 墨控** 是一款 macOS 原生应用，用于控制 **大上 (Dasung)** 电子墨水显示器。它是一个常驻菜单栏的小工具，可以替代显示器上的实体按键，直接在系统界面中调整屏幕参数。
+**InkControl** is a native macOS application designed for controlling **Dasung** E-ink monitors. It resides in your menu bar, allowing you to adjust screen settings directly from the system interface, replacing the need for physical buttons on the monitor.
 
-<img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/app_screenshot_cn.png" width="931" height="565" alt="InkControl Screenshot" />
+<img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/app_screenshot_en.png" width="931" height="565" alt="InkControl Screenshot" />
 
-## 核心功能
+## Key Features
 
-### 🎛 硬件调整
-直接通过软件调整显示器参数，无需点击实体按键：
-- **刷新模式**: 切换图文、视频、文本等显示模式。
-- **背光调节**: 调整冷暖光强度。
-- **防止抖动**: 关闭墨水屏的硬件抖动，文本显示更稳定。
+### 🎛 Hardware Control
+Adjust monitor settings via software without touching physical buttons:
+- **Refresh Mode**: Switch between Graphics, Video, Text modes, etc.
+- **Backlight Control**: Adjust the intensity of cool and warm front lights.
+- **Disable Dithering**: Turn off hardware dithering for a more stable text display.
     <div align="center">
         <img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/dithering_demo.gif" width="600" height="337" alt="Dithering Demo" />
     </div>
 
-- **自动清屏**: 设置时间间隔自动刷新屏幕，减少残影。
+- **Auto Refresh**: Set intervals to automatically refresh the screen and reduce ghosting.
 
-- **一键清屏**: 随时手动清除残影，支持自定义全局快捷键。
+- **One-Click Refresh**: Manually clear ghosting at any time with a customizable global shortcut.
     <div align="center">
         <img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/one_click_refresh_demo.gif" width="400" height="845" alt="One Key Cleaning Demo" />
     </div>
 
-### 🎨 原生设计
-完全遵循 macOS 设计规范，如同系统自带应用一般自然：
-- **菜单栏应用**: 常驻顶栏，随时待命，绝不打扰。
-- **毛玻璃设计**: 深度适配 macOS 的半透明视觉效果。
+### 🎨 Native Design
+Follows macOS design guidelines for a natural experience:
+- **Menu Bar App**: Always available in the menu bar, never intrusive.
+- **Vibrancy Effect**: Deeply integrated with macOS's translucent visual effects.
 
-## 下载与使用
+## Download & Usage
 
-应用提供 **7天全功能试用**，无功能限制，无需绑定信用卡。
+The app offers a **7-day free trial** with full features, no limitations, and no credit card required.
 
-### 📥 [下载最新版本](https://github.com/simpleapples/InkControl/releases/latest)
+### 📥 [Download Latest Version](https://github.com/simpleapples/InkControl/releases/latest)
 
-如果您觉得好用，可以购买永久授权支持开发：
+If you find it useful, you can purchase a permanent license to support development:
 
 <div align="center">
   <a href="https://buy.stripe.com/4gMaEXcWX3oe4Du62063K00">
-    <img src="https://img.shields.io/badge/购买正版授权-¥18.99-success?style=for-the-badge&logo=stripe" height="80" alt="Buy Now" />
+    <img src="https://img.shields.io/badge/Buy_License-$18.99-success?style=for-the-badge&logo=stripe" height="80" alt="Buy Now" />
   </a>
   <br>
-  <em>一次付费，终身使用。</em>
+  <em>One-time payment, lifetime usage.</em>
 </div>
 
-### 激活步骤
-1. 点击上方链接购买。
-2. 激活码将发送至您的邮箱 (格式: `INK-XXXX-XXXX...`)。
-3. 打开 InkControl，在 **设置** > **许可证** 中输入激活码。
+### Activation Steps
+1. Click the link above to purchase a license.
+2. You will receive an activation code via email (Format: `INK-XXXX-XXXX...`).
+3. Open InkControl, go to **Settings** > **License** and enter your activation code.
 
-## 设备支持
+## Device Support
 
-我们针对 Dasung Paperlike 系列显示器开发。
+Developed for the Dasung Paperlike series monitors.
 
-### ✅ 已实机测试
+### ✅ Tested Devices
 - **Dasung Paperlike HD**
 
-### 🧪 理论支持
-以下设备共享相同的通信协议，理论上可以完美支持，但尚未经我们团队实机验证：
+### 🧪 Theoretically Supported
+The following devices share the same communication protocol and should theoretically be supported, but have not been verified by our team:
 - **Dasung Paperlike 253**
 - **Dasung Paperlike 13K**
 - **Dasung Paperlike Color**
-- 其他大上 Paperlike 系列显示器。
+- Other Dasung Paperlike series monitors.
 
-### 系统要求
-- **macOS**: macOS 15 (Sequoia) 或更高版本。
-- **处理器**: 完美支持 **Apple Silicon (M1/M2/M3/M4/M5)**
+### System Requirements
+- **macOS**: macOS 15 (Sequoia) or later.
+- **Processor**: Full support for **Apple Silicon (M1/M2/M3/M4/M5)**
 
-## 多语言
+## Localization
 
-InkControl 目前完美支持以下语言，并将自动跟随系统语言设置：
-- 🇨🇳 **简体中文**
-- 🇬🇧 **英文**
+InkControl fully supports the following languages and follows your system setting:
+- 🇨🇳 **Simplified Chinese**
+- 🇬🇧 **English**
 
 ---
 
-## 💬 反馈
+## 💬 Feedback
 
-如有任何问题或建议，欢迎联系我们：
+If you have any questions or suggestions, please contact us:
 
-- **邮件**: [inkcontrol@simpleapples.com](mailto:inkcontrol@simpleapples.com)
+- **Email**: [inkcontrol@simpleapples.com](mailto:inkcontrol@simpleapples.com)
 - **Issues**: [Github Issues](https://github.com/simpleapples/InkControl/issues)
 
 <p align="center">
