@@ -29,9 +29,10 @@
 - **刷新模式**: 切换图文、视频、文本等显示模式。
 - **背光调节**: 调整冷暖光强度。
 - **防止抖动**: 关闭墨水屏的硬件抖动，文本显示更稳定。
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/dithering_demo.gif" width="600" height="337" alt="Dithering Demo" />
-    </div>
+
+|启用时序抖动|禁用时序抖动|
+|---|---|
+|![Enable Dithering](https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/enable_dithering.gif)|![Disable Dithering](https://raw.githubusercontent.com/simpleapples/InkControl/refs/heads/main/resource/disable_dithering.gif)|
 
 - **自动清屏**: 设置时间间隔自动刷新屏幕，减少残影。
 
