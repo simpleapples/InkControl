@@ -1,3 +1,75 @@
+# Terms of Service
+
+**Effective Date: January 23, 2026**
+
+Welcome to **InkControl**. Please read the following terms carefully before downloading, installing, or using this application.
+
+## 1. Acceptance of Terms
+
+By downloading, installing, or using InkControl ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these terms, please do not use the App.
+
+## 2. License Grant
+
+The developer of InkControl (hereinafter referred to as "Developer" or "we") grants you a personal, non-transferable, non-exclusive license to install and use the App on macOS devices that you own or control.
+
+### 2.1 Trial Version
+We may offer a free trial for a limited time. After the trial period ends, you must purchase a license to continue using all or part of the App's features.
+
+### 2.2 Restrictions
+You may not:
+*   Reverse engineer, decompile, or disassemble the App.
+*   Rent, lease, lend, sell, or redistribute the App or its license.
+*   Modify, adapt, or create derivative works of the App.
+*   Bypass or attempt to bypass any technical limitations of the App (such as trial period limits or license verification).
+
+## 3. Pricing and Payment
+
+### 3.1 Payment Model
+InkControl currently operates on a one-time purchase basis. A single payment grants you perpetual usage rights for the current major version.
+
+### 3.2 Price Changes and Subscriptions
+We reserve the right to adjust product pricing or change the sales model (e.g., to a subscription model) at any time.
+*   **Rights of One-Time Purchase Users**: If we introduce a subscription model in the future, users who have already purchased the one-time version will continue to enjoy perpetual usage rights for their purchased version without being forced to switch to a subscription. However, upgrades across major versions (e.g., from v1.0 to v2.0) may require an upgrade fee.
+
+## 4. Technical Support
+
+For one-time purchase users, we commit to providing the following support:
+*   **Support Period**: At least **1 year** of technical support and software updates from the date of purchase.
+*   **Support Scope**: Includes fixing severe software bugs and adapting to new macOS system versions (ensuring availability on macOS versions released within the support period).
+*   **End of Support**: After the support period expires, we may no longer provide updates for the old version, but you may continue to use that version (on compatible systems).
+
+## 5. Intellectual Property
+
+InkControl and all its specific content, features, and functionality (including but not limited to all information, software, text, displays, images, and their design) are owned by the Developer and its licensors and are protected by copyright, trademark, and other intellectual property laws.
+
+**Disclaimer**: "Dasung" and "Paperlike" are trademarks of Dasung Tech. This App is a third-party tool and is not affiliated with, sponsored by, or endorsed by Dasung Tech.
+
+## 6. Disclaimer
+
+**The App is provided "AS IS", without warranty of any kind, express or implied.**
+
+The Developer provides simple, stable static text display effects. However, the Developer shall not be liable for any hardware damage (such as screen or backlight aging, circuit failure, etc.), data loss, or business interruption caused by the use of this App.
+
+## 7. Limitation of Liability
+
+In no event shall the Developer be liable for any indirect, incidental, special, consequential, or punitive damages, even if we have been advised of the possibility of such damages.
+
+## 8. Termination
+
+If you violate any provision of these Terms, we have the right to terminate your license immediately without notice. Upon termination, you must stop using the App and destroy all copies of it.
+
+## 9. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of the People's Republic of China, without regard to its conflict of law principles.
+
+## 10. Contact Us
+
+If you have any questions about these Terms, please contact us at:
+
+*   **Email**: [inkcontrol@simpleapples.com](mailto:inkcontrol@simpleapples.com)
+
+---
+
 # 服务条款 (Terms of Service)
 
 **生效日期：2026年1月23日**
@@ -42,7 +114,7 @@ InkControl 目前采用一次性买断制。您支付一次即可获得当前主
 
 InkControl 及其所有内容、特性和功能（包括但不限于所有信息、软件、文本、显示、图像及其设计）均为开发者及其许可方所有，受版权、商标和其他知识产权法的保护。
 
-**免责声明**: "Dasung" 和 "Paperlike" 是 Dasung Tech 的商标。本应用是第三方工具，与 Dasung Tech 没有任何关联、赞助或背书关系。
+**免责声明**: "Dasung" and "Paperlike" 是 Dasung Tech 的商标。本应用是第三方工具，与 Dasung Tech 没有任何关联、赞助或背书关系。
 
 ## 6. 免责声明 (Disclaimer)
 

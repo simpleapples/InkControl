@@ -1,8 +1,50 @@
+# Privacy Policy
+
+**Effective Date: January 23, 2026**
+
+InkControl ("we", "us", or "our") values your privacy. This Privacy Policy describes how the macOS application **InkControl** ("the App"), developed by the Developer, collects, uses, and discloses your information.
+
+## 1. Information We Collect
+
+### 1.1 Collection of Personal Information
+To verify your software license, we need to collect and process your **email address**. This information is solely used to bind a unique license key to your identity, ensuring that your purchased rights are protected. Apart from the email address, InkControl does **not** request or store any other Personally Identifiable Information (PII) from you, such as your name, address, or phone number.
+
+### 1.2 Device and Usage Data
+This App operates primarily on your local device. We do not upload your screen content, usage habits, or connected monitor information to any remote servers.
+
+### 1.3 License and Trial Data
+To verify your trial eligibility or software license, the App may store encrypted license keys, trial start dates, and activation status on your local device (such as the file system or system preferences). This data is used solely for in-app feature authorization verification.
+
+## 2. Data Storage and Security
+
+All configuration data, license information, and app settings are stored on your **local device**. We do not operate any cloud database for collecting user data.
+
+## 3. Third-Party Services
+
+### 3.1 Payment and Licensing
+If you purchase a paid version of the App, the transaction process is handled by third-party payment processors (such as Stripe) and our license distribution platform. During the transaction, these platforms may collect your payment information and email address; please refer to the respective service provider's privacy policy. We only receive the generated license key and related activation status information; we do not have access to sensitive payment information such as your credit card number.
+
+### 3.2 Automatic Updates
+The App may check for new versions via GitHub Releases. This process follows GitHub's privacy policy.
+
+## 4. Policy Changes
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the updated policy will be effective immediately upon posting. We encourage you to review this policy periodically for any changes.
+
+## 5. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+*   **Email**: [inkcontrol@simpleapples.com](mailto:inkcontrol@simpleapples.com)
+*   **GitHub**: [https://github.com/simpleapples/InkControl](https://github.com/simpleapples/InkControl)
+
+---
+
 # 隐私政策 (Privacy Policy)
 
 **生效日期：2026年1月23日**
 
-InkControl ("我们") 非常重视您的隐私。本隐私政策说明了简苹果 (simpleapples) 开发的 macOS 应用程序 **InkControl** ("本应用") 如何收集、使用和披露您的信息。
+InkControl ("我们") 非常重视您的隐私。本隐私政策说明了由开发者开发的 macOS 应用程序 **InkControl** ("本应用") 如何收集、使用和披露您的信息。
 
 ## 1. 我们收集的信息
 
