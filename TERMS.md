@@ -60,7 +60,7 @@ If you violate any provision of these Terms, we have the right to terminate your
 
 ## 9. Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of the People's Republic of China, without regard to its conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of the United Kingdom, without regard to its conflict of law principles.
 
 ## 10. Contact Us
 
@@ -132,7 +132,7 @@ InkControl 及其所有内容、特性和功能（包括但不限于所有信息
 
 ## 9. 法律适用
 
-本条款受中华人民共和国法律管辖并按其解释，不考虑其法律冲突原则。
+本条款受英国法律管辖并按其解释，不考虑其法律冲突原则。
 
 ## 10. 联系我们
 
