@@ -3,12 +3,12 @@
     <channel>
         <title>InkControl</title>
         <item>
-            <title> 1.0.1</title>
-            <pubDate>Mon, 02 Feb 2026 19:04:09 +0000</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString> 1.0.1</sparkle:shortVersionString>
+            <title> 1.0.2</title>
+            <pubDate>Fri, 13 Feb 2026 00:00:42 +0000</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString> 1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/simpleapples/InkControl/releases/download/v1.0.1/InkControl-v1.0.1.dmg" length="3674060" type="application/octet-stream"/>
+            <enclosure url="https://github.com/simpleapples/InkControl/releases/download/v1.0.2/InkControl-v1.0.2.dmg" length="3449709" type="application/octet-stream" sparkle:edSignature="T7vh4+v1AzkToKBxs3x/UpAo1l/4EnRAKOVR5XAj/Kqh4cPCGuOiCpL1b1dRHtP1myZN34e3Bm4VjbOcyouWAQ=="/>
         </item>
     </channel>
 </rss>
