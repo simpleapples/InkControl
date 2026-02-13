@@ -5,7 +5,8 @@
 
   <a href="https://github.com/simpleapples/InkControl/releases/latest"><img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="180" alt="Download for macOS"/></a>
   &nbsp;&nbsp;
-  <a href="https://buy.stripe.com/4gMaEXcWX3oe4Du62063K00"><img height="60" src="https://img.shields.io/badge/Buy_License-success?style=for-the-badge&logo=stripe" height="40" alt="Buy License" /></a><br/>
+  
+  <a href="https://buy.stripe.com/4gMaEXcWX3oe4Du62063K00"><img src="https://img.shields.io/badge/Buy_License-$18.99-success?style=for-the-badge&logo=stripe" height="40" alt="Buy License" /></a><br/>
   
   [![macOS](https://img.shields.io/badge/macOS-15.0%2B-black?style=flat-square&logo=apple)](https://www.apple.com/macos/)
   [![Release](https://img.shields.io/github/v/release/simpleapples/InkControl?style=flat-square&color=blue)](https://github.com/simpleapples/InkControl/releases/latest)
