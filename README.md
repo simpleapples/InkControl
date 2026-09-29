@@ -29,9 +29,11 @@
 
 ### 🎛 Hardware Control
 Adjust monitor settings via software without touching physical buttons:
-- **Refresh Mode**: Switch between Graphics, Video, Text modes, etc.
-- **Backlight Control**: Adjust the intensity of cool and warm front lights.
-- **Disable Dithering**: Turn off hardware dithering for a more stable text display.
+- **Display Mode**: Switch between Auto, Text, Image, Active and other modes. InkControl detects your monitor model and shows the modes it supports.
+- **Refresh Speed**: Choose a refresh speed from 1 to 5.
+- **Text Enhancement**: Sharpen text on monitors that support it.
+- **Front Light**: Adjust the intensity of cool and warm front lights on models that have them.
+- **Disable Dithering**: Turn off macOS's dithering on the display for steadier text.
 
 |Enable Dithering|Disable Dithering|
 |---|---|
@@ -47,7 +49,7 @@ Adjust monitor settings via software without touching physical buttons:
 ### 🎨 Native Design
 Follows macOS design guidelines for a natural experience:
 - **Menu Bar App**: Always available in the menu bar, never intrusive.
-- **Vibrancy Effect**: Deeply integrated with macOS's translucent visual effects.
+- **Liquid Glass**: Uses the system Liquid Glass on macOS 26, and translucent materials on macOS 15.
 
 ## Download & Usage
 
@@ -77,12 +79,13 @@ Developed for the Dasung Paperlike series monitors.
 ### ✅ Tested Devices
 - **Dasung Paperlike HD**
 
-### 🧪 Theoretically Supported
-The following devices share the same communication protocol and should theoretically be supported, but have not been verified by our team:
-- **Dasung Paperlike 253**
-- **Dasung Paperlike 13K**
-- **Dasung Paperlike Color**
-- Other Dasung Paperlike series monitors.
+### 🧪 Recognized, Not Yet Tested
+InkControl identifies these models and uses the same mode settings as the official Dasung client, but we haven't tested them on real hardware:
+- **Dasung Paperlike 253** (Color / B&W)
+- **Dasung Paperlike 13.3K** (Color / B&W)
+- **Dasung Paperlike 103**
+
+Other Paperlike monitors that use the same protocol can still connect and be refreshed, but mode switching stays disabled until their mode settings are known. If you have one, please [open an issue](https://github.com/simpleapples/InkControl/issues).
 
 ### System Requirements
 - **macOS**: macOS 15 (Sequoia) or later.
