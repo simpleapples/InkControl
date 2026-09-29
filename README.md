@@ -76,11 +76,8 @@ If you find it useful, you can purchase a permanent license to support developme
 
 Developed for the Dasung Paperlike series monitors.
 
-### ✅ Tested Devices
+### ✅ Supported Devices
 - **Dasung Paperlike HD**
-
-### 🧪 Recognized, Not Yet Tested
-InkControl identifies these models and uses the same mode settings as the official Dasung client, but we haven't tested them on real hardware:
 - **Dasung Paperlike 253** (Color / B&W)
 - **Dasung Paperlike 13.3K** (Color / B&W)
 - **Dasung Paperlike 103**

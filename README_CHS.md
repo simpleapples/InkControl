@@ -76,16 +76,13 @@
 
 我们针对 Dasung Paperlike 系列显示器开发。
 
-### ✅ 已实机测试
+### ✅ 支持的设备
 - **Dasung Paperlike HD**
-
-### 🧪 可识别，尚未实机测试
-InkControl 能识别以下型号，模式设置与大上官方客户端一致，但我们还没有在实机上测试过：
 - **Dasung Paperlike 253**（彩色 / 黑白）
 - **Dasung Paperlike 13.3K**（彩色 / 黑白）
 - **Dasung Paperlike 103**
 
-其他使用相同协议的 Paperlike 显示器也能连接和清屏，但在确认模式设置之前，模式切换会保持禁用。如果您有这些设备，欢迎[提交 Issue](https://github.com/simpleapples/InkControl/issues) 帮我们完善支持。
+其他使用相同协议的 Paperlike 显示器也能连接和清屏，但在确认模式设置之前，模式切换会保持禁用。如果您有这样的设备，欢迎[提交 Issue](https://github.com/simpleapples/InkControl/issues) 帮我们完善支持。
 
 ### 系统要求
 - **macOS**: macOS 15 (Sequoia) 或更高版本。
